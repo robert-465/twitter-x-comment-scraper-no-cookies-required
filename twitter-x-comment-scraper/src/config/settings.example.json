@@ -1,0 +1,4 @@
+{
+    "twitter_url": "https://twitter.com/some_user/status/some_tweet_id",
+    "output_file": "./data/sample.json"
+}
