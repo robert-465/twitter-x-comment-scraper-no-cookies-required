@@ -1,0 +1,2 @@
+# This is a sample input file for Twitter/X comment scraper.
+# Paste the list of Twitter URLs or keywords you want to scrape here.
